@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatihanDatabase", "LatihanDatabase.csproj", "{CCE350EA-EEA2-4F73-A3AA-3D6B9676C284}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCE350EA-EEA2-4F73-A3AA-3D6B9676C284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE350EA-EEA2-4F73-A3AA-3D6B9676C284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE350EA-EEA2-4F73-A3AA-3D6B9676C284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE350EA-EEA2-4F73-A3AA-3D6B9676C284}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6949FEF8-1B81-4DD3-81C6-C06B2F343529}
+	EndGlobalSection
+EndGlobal
